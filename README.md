@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
