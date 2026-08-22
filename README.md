@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
