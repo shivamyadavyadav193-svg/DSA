@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -78,6 +80,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
