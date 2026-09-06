@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
@@ -59,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
