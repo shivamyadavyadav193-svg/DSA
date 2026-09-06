@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
