@@ -30,6 +30,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1672-richest-customer-wealth) |
@@ -74,6 +75,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
