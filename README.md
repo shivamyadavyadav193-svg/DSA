@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0066-plus-one) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
