@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
