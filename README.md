@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -146,4 +147,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
