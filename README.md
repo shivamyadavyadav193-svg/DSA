@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +140,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
@@ -151,4 +156,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0326-power-of-three) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
