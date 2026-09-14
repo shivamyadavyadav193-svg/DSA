@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0326-power-of-three) |
@@ -23,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +70,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
