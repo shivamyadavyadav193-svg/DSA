@@ -96,6 +96,7 @@
 | [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0771-jewels-and-stones) |
+| [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0042-trapping-rain-water) |
+| [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
