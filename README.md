@@ -87,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -98,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
 ## Sorting
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -201,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
