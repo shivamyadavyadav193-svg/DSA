@@ -205,6 +205,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
@@ -227,4 +228,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
