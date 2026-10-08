@@ -18,6 +18,7 @@
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
