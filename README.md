@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0342-power-of-four) |
@@ -167,6 +168,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0155-min-stack) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
