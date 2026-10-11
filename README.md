@@ -62,6 +62,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
