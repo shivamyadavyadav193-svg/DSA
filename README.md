@@ -115,6 +115,7 @@
 | [0771-jewels-and-stones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
 | [1678-goal-parser-interpretation](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1678-goal-parser-interpretation) |
