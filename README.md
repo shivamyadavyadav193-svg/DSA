@@ -128,6 +128,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2810-faulty-keyboard](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2810-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2810-faulty-keyboard](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2810-faulty-keyboard) |
 ## Divide and Conquer
 |  |
 | ------- |
