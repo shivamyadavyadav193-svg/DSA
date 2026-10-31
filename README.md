@@ -107,6 +107,7 @@
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
@@ -129,6 +130,7 @@
 | [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
