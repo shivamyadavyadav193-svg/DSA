@@ -118,6 +118,7 @@
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0771-jewels-and-stones) |
