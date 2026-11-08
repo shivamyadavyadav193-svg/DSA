@@ -298,18 +298,25 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
