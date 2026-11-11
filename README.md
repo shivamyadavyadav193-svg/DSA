@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
@@ -147,6 +149,7 @@
 | [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
@@ -161,6 +164,7 @@
 | [0217-contains-duplicate](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
@@ -176,6 +180,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
