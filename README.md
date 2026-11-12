@@ -78,6 +78,7 @@
 | [0053-maximum-subarray](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
 ## Minimax
@@ -189,6 +190,7 @@
 | [0231-power-of-two](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
