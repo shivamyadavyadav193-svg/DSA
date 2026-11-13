@@ -51,6 +51,7 @@
 | [0485-max-consecutive-ones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
@@ -152,6 +153,7 @@
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
@@ -257,6 +260,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
