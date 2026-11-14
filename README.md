@@ -24,6 +24,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
