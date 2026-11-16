@@ -55,6 +55,7 @@
 | [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -112,6 +113,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -196,6 +198,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -215,6 +219,7 @@
 | [0258-add-digits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1929-concatenation-of-array) |
