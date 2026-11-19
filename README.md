@@ -143,6 +143,7 @@
 | [1678-goal-parser-interpretation](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -180,6 +181,7 @@
 | [0771-jewels-and-stones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
