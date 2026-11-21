@@ -129,6 +129,7 @@
 | [0058-length-of-last-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0520-detect-capital) |
@@ -159,6 +160,7 @@
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0905-sort-array-by-parity) |
@@ -176,6 +178,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +204,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
