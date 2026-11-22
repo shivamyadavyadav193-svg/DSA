@@ -128,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
@@ -177,6 +178,7 @@
 | [0268-missing-number](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0409-longest-palindrome) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1051-height-checker) |
