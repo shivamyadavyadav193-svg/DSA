@@ -142,6 +142,7 @@
 | [0709-to-lower-case](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1528-shuffle-string) |
@@ -294,6 +295,7 @@
 | [0496-next-greater-element-i](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1544-make-the-string-great) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
