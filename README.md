@@ -105,6 +105,7 @@
 | [0015-3sum](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamyadavyadav193-svg/DSA/tree/master/0387-first-unique-character-in-a-string) |
